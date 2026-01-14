@@ -25,6 +25,19 @@ Linux masaüstü ortamları için geliştirilmiş; şeffaf, modern ve kullanıc�
 
 ## 📦 Kurulum
 
+### Pardus 23 Kullancıları İçin
+1. Yukarıda CODE yazan butonu tıklayıp "Download ZIP" seçin ve proje dosyasını indirin
+2. Dosyayı arşiveden çıkarıp, klasör içinde Terminal (konsol) açın
+  
+```bash
+sudo bash ./paketle_namazvakti.sh
+```
+komutu ile .deb paketi haline getirin. Oluşan paketi çift tıklayıp kurun. 
+
+---------
+
+### Pardus 25 Kullancıları İçin
+
 ### Yöntem 1: .deb Paketi (Önerilen)
 Releases sayfasından en son sürümü indirin:
 ```bash
