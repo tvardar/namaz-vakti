@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.env
+
+# Paketleme / Derleme
+build/
+dist/
+build_deb/
+*.spec
+*.deb
+
+# IDE / Editör
+.idea/
+.vscode/
+*.swp
+
+# Uygulama Verileri
+prayer_cache.json
+assets/cities.json
+*.lock
+
+# Scriptler (İsteğe bağlı - repoda saklamak isterseniz bunları çıkarın)
+# deploy_namazvakti.sh
+# paketle_namazvakti.sh
